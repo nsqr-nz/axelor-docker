@@ -68,5 +68,3 @@ In the meantime, follow the [docker documentation][docker-doc] to get familiar w
 [docker]: https://www.docker.com/
 [docker-doc]: https://docs.docker.com/
 [docker-compose]: https://docs.docker.com/compose/
-
-Thank you to [SiddiqueAhmad](https://github.com/SiddiqueAhmad) for his recent patch.
